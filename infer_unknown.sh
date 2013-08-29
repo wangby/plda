@@ -1,0 +1,2 @@
+echo './infer --alpha 0.1 --beta 0.01 --inference_data_file /root/program/plda/infer_test/input.txt --inference_result_file /root/program/plda/infer_test/inference_result.txt --model_file /root/program/plda/demo_hamster/lda_model --total_iterations 15 --burn_in_iterations 10'
+./infer --alpha 0.1 --beta 0.01 --inference_data_file /root/program/plda/infer_test/input.txt --inference_result_file /root/program/plda/infer_test/inference_result.txt --model_file /root/program/plda/demo_hamster/lda_model --total_iterations 15 --burn_in_iterations 10
